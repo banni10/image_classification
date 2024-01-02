@@ -53,7 +53,7 @@ def home():
 
 # Function for About Page
 def about():
-    st.title("Welcome to our MNIST Handwritten Digits Classification app!")
+    st.title("Welcome to our MNIST Handwritten Digits Classification project!")
     st.write(" This application aims to showcase the fascinating world of computer vision and machine learning by demonstrating the recognition and classification of handwritten digits using the famous MNIST dataset. The MNIST dataset consists of a vast collection of handwritten digits (0-9), widely used as a benchmark in the field of machine learning.")
     st.write("Our app utilizes state-of-the-art machine learning techniques and neural networks to analyze and classify these handwritten digits. With the power of deep learning, it can predict the digit drawn on the canvas with impressive accuracy.")
     st.write("Explore the intricacies of image recognition and witness firsthand how machine learning algorithms decipher handwritten digits. Whether you're new to machine learning or an enthusiast, this app provides an interactive platform to understand the magic behind digit classification.")
