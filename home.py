@@ -47,7 +47,7 @@ def generate_data(data_samples, split_ratio):
 
 # Function for Home Page
 def home():
-    st.title("Image Classification App")
+    st.title("Handwritten Digits Classification Project")
     st.image("https://www.altexsoft.com/media/2019/12/https-lh5-googleusercontent-com-lirteaajnd3hx43l.gif")
 
 
